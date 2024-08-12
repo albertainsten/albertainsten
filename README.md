@@ -1,4 +1,4 @@
-## Hi there 👋
+## opa conta criada apenas para organizar minhas ideias de JavaScript👋
 
 <!--
 **albertainsten/albertainsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
