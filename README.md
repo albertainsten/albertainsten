@@ -1,5 +1,7 @@
 ## opa conta criada apenas para organizar minhas ideias de JavaScript👋
 
+![](https://preview.redd.it/passe-todos-os-memes-de-esqueleto-que-voc%C3%AA-tiver-v0-413mcrngvjib1.png?width=978&format=png&auto=webp&s=e0e3371aef38d95e49e3fc0963dc34d15383df49)
+
 <!--
 **albertainsten/albertainsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
